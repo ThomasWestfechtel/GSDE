@@ -20,7 +20,9 @@ bash train_dn.sh
 To change the adaptation task -> Change index in the script file
 
 Change the 2 lines in the script to where the datasets are stored:
+
     s_dset_path='../Office31/'${source[index]}'/label_c.txt'
+    
     t_dset_path='../Office31/'${target[index]}'/label_c.txt'
 
 
