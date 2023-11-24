@@ -25,6 +25,7 @@ Change the 2 lines in the script to where the datasets are stored:
     
     t_dset_path='../Office31/'${target[index]}'/label_c.txt'
 
+Example for how the label_c.txt file looks like can be seen for Office31 in the datasets folder
 
 ### Citation
 If you use GSDE code please cite:
