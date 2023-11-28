@@ -1,4 +1,4 @@
-# BIWAA
+# GSDE
 PyTorch Code for GSDE - Gradual Source Domain Expansion for Unsupervised Domain Adaptation (WACV 2024)
 
 
