@@ -1,6 +1,6 @@
 # GSDE
 PyTorch Code for GSDE - Gradual Source Domain Expansion for Unsupervised Domain Adaptation (WACV 2024)
-
+https://arxiv.org/abs/2311.09599
 
 ### Method overview
 Unsupervised domain adaptation (UDA) tries to overcome the need for a large labeled dataset by transferring knowledge from a source dataset, with lots of labeled data, to a target dataset, that has no labeled data. Since there are no labels in the target domain, early misalignment might propagate into the later stages and lead to an error build-up.
